@@ -1,18 +1,82 @@
-<h1 align="center">Hi 👋, I'm Apurva Kumar Das</h1> <h3 align="center">Software Test Engineer | QA Automation Specialist from India</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsApurvaKumarDas&label=Profile%20views&color=0e75b6&style=flat" alt="ItsApurvaKumarDas" /> </p> <br/>
-🔭 I'm currently working on Playwright & Cypress automation suites for real-world sites (e-commerce, REST APIs, QA platforms)
-🌱 I'm currently learning advanced API testing and CI/CD integration for test pipelines
-👯 I'm looking to collaborate on open-source test automation frameworks
-🤔 I'm looking for help with scaling test suites across CI/CD environments
-💬 Ask me about manual testing, Playwright, Cypress, JIRA, and API testing with Postman
-📫 How to reach me apurvadas1235@gmail.com
-⚡ Fun fact I've written 174+ automated test cases across 7 different live production sites
+<h1 align="center">Hi 👋, I'm Apurva Kumar Das</h1>
+<h3 align="center">Software Test Engineer | QA Automation Specialist from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ItsApurvaKumarDas&label=Profile%20views&color=0e75b6&style=flat" alt="ItsApurvaKumarDas" />
+</p>
+
 <br/>
-Connect with me
-<p align="left"> <a href="https://www.linkedin.com/in/apurva-kumar-das-3a83161a0" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/ItsApurvaKumarDas" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:apurvadas1235@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p> <br/>
-Languages and Tools
-<p align="left"> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/></a> <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> </p> <br/>
-GitHub Stats
-<br/> <p align="center"> <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FItsApurvaKumarDas&style=for-the-badge&color=6C5CE7" alt="public repos"/> <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FItsApurvaKumarDas&style=for-the-badge&color=00B894" alt="followers"/> </p> <br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ItsApurvaKumarDas&show_icons=true&locale=en&theme=default" alt="ItsApurvaKumarDas GitHub Stats" width="48%"/> </p> <br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsApurvaKumarDas&layout=compact&locale=en" alt="ItsApurvaKumarDas Top Languages" width="48%"/> </p> <br/> <p align="center"> <img src="https://streak-stats.demolab.com/?user=ItsApurvaKumarDas" alt="ItsApurvaKumarDas GitHub Streak"/> </p> <br/> <p align="center"><i>Thanks for stopping by! ⭐ Star a repo if you find something useful.</i></p>
+
+- 🔭 I'm currently working on **Playwright &amp; Cypress automation suites** for real-world sites (e-commerce, REST APIs, QA platforms)
+
+- 🌱 I'm currently learning **advanced API testing and CI/CD integration for test pipelines**
+
+- 👯 I'm looking to collaborate on **open-source test automation frameworks**
+
+- 🤔 I'm looking for help with **scaling test suites across CI/CD environments**
+
+- 💬 Ask me about **manual testing, Playwright, Cypress, JIRA, and API testing with Postman**
+
+- 📫 How to reach me **apurvadas1235@gmail.com**
+
+- ⚡ Fun fact **I've written 174+ automated test cases across 7 different live production sites**
+
+<br/>
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/apurva-kumar-das-3a83161a0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ItsApurvaKumarDas" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:apurvadas1235@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<br/>
+
+## Languages and Tools
+
+<p align="left">
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://playwright.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/></a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+</p>
+
+<br/>
+
+## GitHub Stats
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FItsApurvaKumarDas&style=for-the-badge&color=6C5CE7" alt="public repos"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FItsApurvaKumarDas&style=for-the-badge&color=00B894" alt="followers"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsApurvaKumarDas&show_icons=true&locale=en&theme=default" alt="ItsApurvaKumarDas GitHub Stats" width="48%"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsApurvaKumarDas&layout=compact&locale=en" alt="ItsApurvaKumarDas Top Languages" width="48%"/>
+</p>
+
 <br/>
 
 <p align="center">
